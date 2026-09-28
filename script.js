@@ -171,7 +171,7 @@ bookingForm.addEventListener("submit", function (e) {
 
 ${problem}`;
 
-    const whatsappNumber = "962791614823";
+    const whatsappNumber = "962795551885";
 
     window.open(
         `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`,
